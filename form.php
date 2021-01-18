@@ -4,9 +4,9 @@
 Welcome <?php echo $_POST["name"]; ?><br>
 Your email address is: <?php echo $_POST["email"]; ?>
 
-Name: <input type="text" name="name" value="<?php echo $name;?>">
+Name: <input type="text" name="demo-name" value="<?php echo $name;?>">
 
-E-mail: <input type="text" name="email" value="<?php echo $email;?>">
+E-mail: <input type="text" name="demo-email" value="<?php echo $email;?>">
 
 Website: <input type="text" name="website" value="<?php echo $website;?>">
 
